@@ -1,0 +1,6 @@
+Task,Metric,Keras,Keras time (s),Best classical model,Best classical score
+Task 1,Macro F1,0.9709159025929213,171.8127999305725,Random Forest,1.0
+Task 2,Macro F1,0.9842070629524018,161.99756145477295,Random Forest,1.0
+Task 3,Macro F1,0.91875,158.5152666568756,Random Forest,1.0
+Task 4,Macro F1,0.8969587176108915,146.84379839897156,Random Forest,1.0
+Task 5,MAE (%),14.813630531231562,145.477059841156,Gradient Boosting,5.277880191485907

@@ -1,0 +1,36 @@
+# Dataset (course-provided, not redistributed) - see data/README.md
+data/*
+!data/README.md
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Office lock files and OS clutter
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local study notes
+.rederive/
+
+# Earlier drafts kept locally
+archive/
+
+# Course deliverables kept local (contain names / IDs)
+report/
+presentation/
+docs/
